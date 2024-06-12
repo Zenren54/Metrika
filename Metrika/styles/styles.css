@@ -1,0 +1,924 @@
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+
+    font-family: 'Manrope', Courier, monospace;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 auto;
+
+    .ModuleSite {
+
+        .HeadContainer {
+
+        width: 1153px;
+        height: 41px;
+        top: 26px;
+        left: 123px;
+
+        margin-left: 123px;
+        margin-right: 124px;
+        margin-top: 26px;
+        margin-bottom: 60px;
+
+        .Navigation {
+
+            width: 1153px;
+            height: 41px;
+            top: 26px;
+            left: 123px;
+
+            padding-right: 124px;
+
+            margin-left: 123px;
+            margin-right: 124px;
+            margin-top: 26px;
+
+            .logo {
+
+                width: 126.89px;
+                height: 21.42px;
+                top: 32.82px;
+                left: 124.65px;
+                color: #121212;
+                display: inline-block;
+
+            }
+
+            .Nav1 {
+
+                width: 51px;
+                height: 25px;
+                top: 33px;
+                left: 810px;
+                color: #101010;
+                text-decoration: #121212;
+
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 24.59px;
+                letter-spacing: -0.03em;
+                text-align: left;
+                display: inline-block;
+                cursor: pointer;
+
+                margin-left: 496px;
+                margin-top: 7px;
+                margin-bottom: 9px;
+
+            }
+
+            
+            .Nav2 {
+                
+                width: 79px;
+                height: 25px;
+                top: 33px;
+                left: 921px;
+                color: #101010;
+
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 24.59px;
+                letter-spacing: -0.03em;
+                text-align: left;
+                display: inline-block;
+                cursor: pointer;
+
+                margin-left: 60px;
+                margin-top: 7px;
+                margin-bottom: 9px;
+
+            }
+
+            
+            .Nav3 {
+                
+                width: 66px;
+                height: 25px;
+                top: 33px;
+                left: 1060px;
+                color: #101010;
+
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 24.59px;
+                letter-spacing: -0.03em;
+                text-align: left;
+                display: inline-block;
+                cursor: pointer;
+
+                margin-left: 60px;
+                margin-top: 7px;
+                margin-bottom: 9px;
+
+            }
+
+            
+            .Nav4 {
+                
+                width: 90px;
+                height: 25px;
+                top: 33px;
+                left: 1186px;
+                color: #101010;
+
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 24.59px;
+                letter-spacing: -0.03em;
+                text-align: left;
+                display: inline-block;
+                cursor: pointer;
+
+                margin-left: 60px;
+                margin-top: 7px;
+                margin-bottom: 9px;
+
+            }
+
+        }
+
+    }
+
+        .MainContainer {
+
+        margin-left: 125px;
+
+        .Container1 {
+
+            width: 1150px;
+            height: 650px;
+            top: 128px;
+            left: 125px;
+
+            padding: 125px;
+            
+            h1 {
+
+                width: 956px;
+                height: 120px;
+                top: 127px;
+                left: 125px;
+                color: #121212;
+
+                font-size: 60px;
+                font-weight: 400;
+                line-height: 60px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-bottom: 30px;
+                margin-right: 194px;
+                
+            }
+
+            .PhotoContainer {
+
+                width: 1150px;
+                height: 560px;
+                position: absolute;
+
+                background-image: url('/Metrika/resources/Interior.png');
+                background-repeat: no-repeat;
+
+                .TextP {
+
+                    width: 430px;
+                    height: 81px;
+                    top: 566px;
+                    left: 165px;
+                    color: #FFFFFF;
+
+                    font-size: 20px;
+                    font-weight: 400;
+                    line-height: 27.32px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                    position: relative;
+                    left: 40px;
+                    top: 379px;
+                    bottom: 40px;
+                    right: 680px;
+
+                }
+            
+            }
+
+        }
+
+        .Container2 {
+
+            width: 1051px;
+            height: 560px;
+            top: 928px;
+            left: 125px;
+            border-radius: 5px 0px 0px 0px;
+
+            padding: 125px;
+            margin-top: 150px;
+            margin-right: 99px;
+
+            tag {
+
+                width: 51px;
+                height: 25px;
+                top: 928px;
+                left: 125px;
+                color: #121212;
+
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 24.59px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 150px;
+                margin-bottom: 30px;
+                margin-right: 1000px;
+
+            }
+
+            h2 {
+
+                width: 1048px;
+                height: 366px;
+                top: 983px;
+                left: 128px;
+                color: #121212;
+
+                font-size: 45px;
+                font-weight: 400;
+                line-height: 61.47px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 30px;
+                margin-bottom: 30px;
+
+            }
+
+            .Button {
+                
+                width: 175px;
+                height: 27px;
+                color: #FFFFFF;
+                background-color: #AD1818;
+
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 27.32px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                display: inline-block;
+                padding: 20px 40px;
+
+                margin-top: 30px;
+                margin-right: 796px;
+
+                border-radius: 5px;
+                cursor: pointer;
+
+            }
+
+        }
+
+        .Container3 {
+
+            width: 1150px;
+            height: 2122px;
+            top: 1596px;
+            left: 125px;
+
+            padding: 125px;
+            margin-top: 150px;
+
+            .Projects {
+
+                width: 79px;
+                height: 25px;
+                top: 1596px;
+                left: 125px;
+                color: #121212;
+
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 24.59px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+            }
+
+            .Contain1 {
+
+                width: 1150px;
+                height: 548px;
+                top: 1651px;
+                left: 125px;
+
+                .Interior1 {
+
+                    margin-top: 30px;
+                    margin-bottom: 15px;
+
+                }
+                
+                h3 {
+
+                    width: 501px;
+                    height: 41px;
+                    top: 2116px;
+                    left: 125px;
+                    color: #121212;
+
+                    font-size: 30px;
+                    font-weight: 400;
+                    line-height: 40.98px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                }
+
+                p {
+
+                    width: 127px;
+                    height: 27px;
+                    top: 2172px;
+                    left: 127px;
+                    color: #AD1818;
+
+                    font-size: 20px;
+                    font-weight: 400;
+                    line-height: 27.32px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                }
+
+            }
+
+            .Contain2 {
+
+                width: 1150px;
+                height: 548px;
+                top: 1651px;
+                left: 125px;
+
+                margin-top: 90px;
+
+                .Interior2 {
+
+                    margin-top: 30px;
+                    margin-bottom: 15px;
+                    
+                }
+                
+                h3 {
+
+                    width: 542px;
+                    height: 41px;
+                    top: 3392px;
+                    left: 125px;
+                    color: #121212;
+
+                    font-size: 30px;
+                    font-weight: 400;
+                    line-height: 40.98px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                }
+
+                p {
+
+                    width: 127px;
+                    height: 27px;
+                    top: 2172px;
+                    left: 127px;
+                    color: #AD1818;
+
+                    font-size: 20px;
+                    font-weight: 400;
+                    line-height: 27.32px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                }
+
+            }
+
+            .Contain3 {
+
+                width: 1150px;
+                height: 650px;
+                top: 2927px;
+                left: 125px;
+
+                margin-top: 90px;
+
+                .Interior3 {
+
+                    margin-top: 30px;
+                    margin-bottom: 15px;
+                    
+                }
+                
+                h3 {
+
+                    width: 542px;
+                    height: 41px;
+                    top: 3392px;
+                    left: 125px;
+
+                    color: #121212;
+
+                    font-size: 30px;
+                    font-weight: 400;
+                    line-height: 40.98px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                }
+
+                p {
+
+                    width: 127px;
+                    height: 27px;
+                    top: 2172px;
+                    left: 127px;
+                    color: #AD1818;
+
+                    font-size: 20px;
+                    font-weight: 400;
+                    line-height: 27.32px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                }
+
+            }
+
+            .ButtonLook {
+
+                width: 1150px;
+                margin-top: 90px;
+
+                border-radius: 5px;
+                border: 1px solid #AD1818;
+                box-sizing: border-box;
+                cursor: pointer;
+                
+                h3 {
+
+                    height: 41px;
+                    top: 3621px;
+                    left: 125px;
+                    color: #AD1818;
+                    background-color: #FFFFFF;
+
+                    padding: 56px;
+
+                    font-size: 30px;
+                    font-weight: 400;
+                    line-height: 40.98px;
+                    letter-spacing: -0.03em;
+                    text-align: center;
+
+                }
+
+            }
+
+        }
+
+    }   
+
+        .MiddleContainer {
+
+        width: 1400px;
+        height: 1844px;
+        top: 3868px;
+        background-color: #121212;
+
+        padding-top: 151px;
+
+        margin-top: 151px;
+        margin-left: 127px;
+        margin-right: 1207px;
+        margin-bottom: 150px;
+
+        tag {
+
+            width: 66px;
+            height: 25px;
+            top: 151px;
+            left: 127px;
+            color: #FFFFFF;
+            
+            font-family: Manrope;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 24.59px;
+            letter-spacing: -0.03em;
+            text-align: left;
+
+            padding-top: 151px;
+            padding-left: 127px;
+            padding-right: 1207px;
+            padding-bottom: 1667px;
+
+        }
+
+        .Group1 {
+
+            width: 1150px;
+            height: 326px;
+            top: 210px;
+            left: 125px;
+
+            margin-top: 34px;
+            margin-left: 125px;
+            margin-right: 125px;
+
+            .Usluga1 {
+
+                width: 541px;
+                height: 41px;
+                top: 495px;
+                left: 128px;
+                color: #FFFFFF;
+
+                font-size: 30px;
+                font-weight: 400;
+                line-height: 40.98px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 15px;
+                margin-right: 606px;
+
+            }
+
+        }
+
+        .Group2 {
+
+            width: 1150px;
+            height: 326px;
+            top: 596px;
+            left: 126px;
+
+            margin-top: 60px;
+            margin-left: 125px;
+            margin-right: 125px;
+
+            .Usluga2 {
+
+                width: 405px;
+                height: 41px;
+                top: 881px;
+                left: 129px;
+                color: #FFFFFF;
+
+                font-size: 30px;
+                font-weight: 400;
+                line-height: 40.98px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 15px;
+                margin-right: 742px;
+
+            }
+
+        }
+
+        .Group3 {
+
+            width: 1150px;
+            height: 326px;
+            top: 982px;
+            left: 127px;
+
+            margin-top: 60px;
+            margin-left: 125px;
+            margin-right: 125px;
+
+
+            .Usluga3 {
+
+                width: 536px;
+                height: 41px;
+                top: 1267px;
+                left: 130px;
+                color: #FFFFFF;
+
+                font-size: 30px;
+                font-weight: 400;
+                line-height: 40.98px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 15px;
+                margin-right: 611px;
+
+            }
+
+        }
+
+        .Group4 {
+
+            width: 1150px;
+            height: 326px;
+            top: 1368px;
+            left: 127px;
+
+            margin-top: 60px;
+            margin-left: 125px;
+            margin-right: 125px;
+
+            .Usluga4 {
+
+                width: 661px;
+                height: 41px;
+                top: 1653px;
+                left: 130px;
+                color: #FFFFFF;
+
+                font-size: 30px;
+                font-weight: 400;
+                line-height: 40.98px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 15px;
+                margin-right: 486px;
+                margin-bottom: 150px;
+
+            }
+
+        }
+
+        .MainProjectPhoto {
+
+            width: 1400px;
+            height: 717px;
+            top: 5712px;
+
+            margin-top: 150px;
+            margin-bottom: 782px;
+
+            background-image: url(/Metrika/resources/ProjectGK.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+
+            .MainPhoto {
+
+                width: 443px;
+                height: 82px;
+                top: 6287px;
+                left: 125px;
+                color: #FFFFFF;
+
+                font-size: 30px;
+                font-weight: 400;
+                line-height: 40.98px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                padding-left: 125px;
+                padding-top: 575px;
+                padding-bottom: 60px;
+                padding-right: 832px;
+
+            }
+
+        }
+
+    }
+
+        .EndContainer {
+
+        width: 1400px;
+        height: 782px;
+
+        margin-top: 867px;
+        margin-left: 126px;
+
+        .Phone {
+
+            width: 24px;
+            height: 24px;
+            top: 6579px;
+            left: 120px;
+            padding: 1px 6px 1px 5px;
+
+            margin-left: 126px;
+
+        }
+
+        .Contact {
+
+            width: 473px;
+            height: 217px;
+            top: 6615px;
+            left: 124px;
+
+            margin-left: 124px;
+
+            .Contacts {
+
+                width: 90px;
+                height: 25px;
+                top: 6615px;
+                left: 124px;
+                color: #121212;
+
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 24.59px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 12px;
+                margin-left: 4px;
+
+            }
+
+            .Number {
+
+                width: 472px;
+                height: 60px;
+                top: 6672px;
+                left: 125px;
+                color: #121212;
+
+                font-size: 60px;
+                font-weight: 400;
+                line-height: 60px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 32px;
+                margin-left: 5px;
+
+            }
+
+            .Mail {
+
+                width: 412px;
+                height: 60px;
+                top: 6762px;
+                left: 125px;
+                opacity: 0.5px;
+                color: #121212;
+
+                font-size: 60px;
+                font-weight: 400;
+                line-height: 60px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 30px;
+                margin-left: 5px;
+
+            }
+
+        }
+
+        .EndSite {
+
+            width: 1400px;
+            height: 229px;
+            top: 6982px;
+
+            margin-top: 553px;
+            margin-bottom: 0px;
+
+            background-color: #121212;
+
+            .ParametrTags {
+
+                margin-left: 470px;
+                margin-top: 60px;
+
+                padding-top: 60px;
+
+                .Tag1 {
+
+                    width: 51px;
+                    height: 25px;
+                    top: 7042px;
+                    left: 470px;
+                    gap: 0px;
+                    opacity: 0.5px;
+                    color: #FFFFFF;
+                    display: inline-block;
+
+                    font-size: 18px;
+                    font-weight: 400;
+                    line-height: 24.59px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                }
+
+                .Tag2 {
+
+                    width: 79px;
+                    height: 25px;
+                    top: 7042px;
+                    left: 574px;
+                    gap: 0px;
+                    opacity: 0px;
+                    color: #FFFFFF;
+                    display: inline-block;
+
+                    font-size: 18px;
+                    font-weight: 400;
+                    line-height: 24.59px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                    margin-left: 53px;
+                    
+                }
+
+                .Tag3 {
+
+                    width: 66px;
+                    height: 25px;
+                    top: 7042px;
+                    left: 709px;
+                    gap: 0px;
+                    opacity: 0px;
+                    color: #FFFFFF;
+                    display: inline-block;
+
+                    font-size: 18px;
+                    font-weight: 400;
+                    line-height: 24.59px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                    margin-left: 56px;
+
+                }
+
+                .Tag4 {
+
+                    width: 90px;
+                    height: 25px;
+                    top: 7042px;
+                    left: 830px;
+                    gap: 0px;
+                    opacity: 0px;
+                    color: #FFFFFF;
+                    display: inline-block;
+
+                    font-size: 18px;
+                    font-weight: 400;
+                    line-height: 24.59px;
+                    letter-spacing: -0.03em;
+                    text-align: left;
+
+                    margin-left: 55px;
+
+                }
+
+            }
+
+            .ParametrPar {
+
+                width: 389px;
+                height: 27px;
+                top: 7154px;
+                left: 509px;
+                gap: 0px;
+                opacity: 0.5px;
+                color: #FFFFFF;
+
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 27.32px;
+                letter-spacing: -0.03em;
+                text-align: left;
+
+                margin-top: 87px;
+                margin-left: 509px;
+
+            }
+
+        }
+
+    }
+
+    }
+
+}
+
